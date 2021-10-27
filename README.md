@@ -1,6 +1,6 @@
 ### Hi, I'm Bram 👋
 
-![Alpaca](alpaca.gif)
+<img align="right" alt="Cool apaca GIF" src="alpaca.gif" height="300px"/>
 
 Feel free to reach out on Discord: bramhaag#3395  
 [Wakatime](https://wakatime.com/@bramhaag)
