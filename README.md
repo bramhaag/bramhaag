@@ -1,7 +1,7 @@
+<img align="right" alt="Cool apaca GIF" src="alpaca.gif" height="250px"/>
 
 ### Hi, I'm Bram 👋
 
-<img align="right" alt="Cool apaca GIF" src="alpaca.gif" height="300px"/>
 
 You can reach me via:
 
